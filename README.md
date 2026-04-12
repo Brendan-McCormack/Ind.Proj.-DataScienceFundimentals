@@ -12,7 +12,15 @@ For the project I selected 2 core questions to explore and find an answer for:
 
 ## Selection of Data & Relation to Group Project Data
 
-DATA SELECTION HERE
+The selected datasets I decided to use in the project is the same datasets and peramiters that I used in my questions during the group project. That means that all 3 of the datasets used, 1 for the core questions and the other 2 for supporting ideals and final conclusions are from the United States Department of Agriculture. As stated in the group project, the presence of datasets from the U.S. federal government allows for a degree of reliability in the data that gives  the exact scope of the data desired, one localized entierly to the U.S. and acting as a good basis of information and trend analysis.
+
+While there are 3 datasets used in the project, 2 of the 3 are more present for support of the question formatting and overall support of the questions rather than being used in the data. This is due to the 2 datasets acting as trend data of the changing inflation and wage growth respectivley and the questions themselves not focusing on the changing price and moreso on the changing demand. THe final of the 3 datasets is 
+
+A core example of the data housed within the main dataset used is shown below:
+
+
+
+This dataset focuses primarily on
 
 ## Meathods
 
